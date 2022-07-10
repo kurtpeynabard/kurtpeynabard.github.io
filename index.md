@@ -167,9 +167,5 @@ Nonetheless, one limitation of our model is that it did not take ‘draws’ int
 [3] C. M. Che Mohd Rosli, M. Z. Saringat, N. Razali, and A. Mustapha, “A comparative study of data mining techniques on football match prediction,” Journal of Physics: Conference Series, vol. 1020, p. 012003, 2018.
 
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
+
 
